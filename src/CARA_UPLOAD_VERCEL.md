@@ -54,7 +54,7 @@ git push -u origin main
 3. **Klik tombol "Add New..."** → **"Project"**
 
 4. **Import Git Repository:**
-   - Cari dan pilih repository `motorun-jogja`
+   - Cari dan pilih repository ` `
    - Klik **"Import"**
 
 5. **Configure Project:**
